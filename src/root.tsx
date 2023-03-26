@@ -11,7 +11,7 @@ export default function Root() {
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <Body class="min-h-screen bg-sand2 text-sand12">
+      <Body class="min-h-screen bg-mauve2 text-mauve12">
         <Suspense>
           <ErrorBoundary>
             <header class="mb-10">
