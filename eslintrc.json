@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "extends": [
+    "plugin:@typescript-eslint/recommended",
+    "plugin:solid/typescript",
+    "eslint:recommended",
+    "prettier"
+  ],
+  "plugins": ["@typescript-eslint", "solid", "eslint-plugin-prettier"]
+}
