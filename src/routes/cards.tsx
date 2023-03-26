@@ -9,9 +9,49 @@ export type Card = {
 
 const mockCards: Card[] = [
   {
+    name: "Swords to Plowshares",
+    color: "W",
+    imageUrl: "https://cards.scryfall.io/normal/front/6/8/68357502-cf23-4bf6-ab4e-371428e540d0.jpg?1669720067",
+  },
+  {
+    name: "Thalia, Guardian of Thraben",
+    color: "W",
+    imageUrl: "https://cards.scryfall.io/normal/front/8/2/824423ff-6441-4be6-b754-810adf9ca6a2.jpg?1562925761",
+  },
+  {
+    name: "Brainstorm",
+    color: "U",
+    imageUrl: "https://cards.scryfall.io/large/front/c/6/c6118d1d-28c1-4f54-97cb-c4f934b6739c.jpg?1666553503",
+  },
+  {
+    name: "Snapcaster Mage",
+    color: "U",
+    imageUrl: "https://cards.scryfall.io/large/front/9/e/9e5b279e-4670-4a1e-87d0-3cab7e4f9e58.jpg?1562834679",
+  },
+  {
+    name: "Thoughtseize",
+    color: "B",
+    imageUrl: "https://cards.scryfall.io/large/front/9/5/95702503-8f2d-46c8-abdb-6edd6c431d19.jpg?1599711020",
+  },
+  {
+    name: "Dark Confidant",
+    color: "B",
+    imageUrl: "https://cards.scryfall.io/large/front/9/4/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9.jpg?1598914714",
+  },
+  {
     name: "Lightning Bolt",
     color: "R",
     imageUrl: "https://cards.scryfall.io/large/front/f/2/f29ba16f-c8fb-42fe-aabf-87089cb214a7.jpg?1673147852",
+  },
+  {
+    name: "Ragavan, Nimble Pilferer",
+    color: "R",
+    imageUrl: "https://cards.scryfall.io/large/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1653966896",
+  },
+  {
+    name: "Green Sun's Zenith",
+    color: "G",
+    imageUrl: "https://cards.scryfall.io/normal/front/0/2/02335747-54e3-4827-ae19-4e362863da9b.jpg?1562609284",
   },
   {
     name: "Birds of Paradise",
